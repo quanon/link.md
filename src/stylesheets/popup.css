@@ -1,0 +1,7 @@
+body {
+  min-width: 500px;
+}
+
+input[name=link] {
+  width: 98.5%;
+}

@@ -1,0 +1,16 @@
+{
+  "manifest_version": 2,
+  "name": "link.md",
+  "version": "0.0.1",
+  "description": "Get an inline-style link for Markdown",
+  "browser_action": {
+    "default_popup": "src/popup.html",
+    "default_icon": "src/icon.png"
+  },
+  "permissions": [
+    "tabs"
+  ],
+  "icons" : {
+    "128": "src/icon.png"
+  }
+}
